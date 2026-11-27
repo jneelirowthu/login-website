@@ -1,0 +1,23 @@
+
+# Security Research Lab
+
+## Aim
+To manage security-research code and datasets
+responsibly using GitHub.
+
+## Objectives
+- Store security research code.
+- Manage research datasets.
+- Maintain code version history.
+- Protect sensitive information.
+- Follow ethical research practices.
+
+## Tools Used
+- GitHub
+- Python
+- Visual Studio Code
+
+## Responsible Research
+Use only authorized research data.
+Do not upload passwords, API keys,
+or confidential information.
